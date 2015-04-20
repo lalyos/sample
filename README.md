@@ -8,6 +8,8 @@ Let's try to embed an animated gif:
 
 ![Deployer tool Progress POC](https://s3-eu-west-1.amazonaws.com/sequenceiq/tty.gif)
 
+other image:
+![avatar svg](https://github.com/treeder/go-polymer/raw/master/static/images/avatar-08.svg)
 ## New html page
 
 If a quick html prototype is need, Github’s own in-browser editor can be used,
